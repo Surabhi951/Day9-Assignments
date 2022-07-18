@@ -54,7 +54,7 @@ public class ContactPerson {
         return ZIPCode;
     }
 
-    public void setZIP(String zIPCode) {
+    public void setZIPCode(String zIPCode) {
         this.ZIPCode = zIPCode;
     }
 
